@@ -1,0 +1,218 @@
+{
+  "INHERITED_LAND_TRANSFER": {
+    "title": "Inherited Land Mutation Document Checklist",
+    "description": "Required documents when transferring land registered in the name of a deceased father/mother or ancestor.",
+    "documents": [
+      {
+        "doc_type": "DEATH_CERTIFICATE",
+        "name": "Deceased Owner's Death Certificate",
+        "name_ta": "மறைந்த நில உரிமையாளரின் இறப்பு சான்றிதழ்",
+        "required": true,
+        "purpose": "Authoritative proof of demise of the recorded title owner.",
+        "issuing_authority": "Corporation / Municipality / Village Panchayat (e-Sevai)",
+        "alternative": "Court declaratory decree if death occurred long ago and unregistered."
+      },
+      {
+        "doc_type": "LEGAL_HEIR_CERTIFICATE",
+        "name": "Legal Heir Certificate (Varisu Saandrizh)",
+        "name_ta": "வாரிசு சான்றிதழ் (வாரிசுரிமை சான்று)",
+        "required": true,
+        "purpose": "Establishes all legal heirs entitled to succeed the deceased's real estate under applicable succession laws.",
+        "issuing_authority": "Tahsildar (Revenue Department)",
+        "alternative": "Succession Certificate issued by Civil Court."
+      },
+      {
+        "doc_type": "TITLE_DEED",
+        "name": "Registered Sale Deed / Settlement Deed of Deceased",
+        "name_ta": "தந்தை பெயரில் உள்ள கிரையப் பத்திரம் அல்லது செட்டில்மென்ட் பத்திரம்",
+        "required": true,
+        "purpose": "Proves the root of title and how the deceased person acquired the property.",
+        "issuing_authority": "Sub-Registrar Office (Registered Copy)",
+        "alternative": "Certified copy obtained from Sub-Registrar if original is missing."
+      },
+      {
+        "doc_type": "EXISTING_PATTA",
+        "name": "Current Computer Patta / Chitta Extract",
+        "name_ta": "தற்போதைய கணினி பட்டா / சிட்டா நகல்",
+        "required": true,
+        "purpose": "Confirms existing revenue entry and exact Survey Number and Sub-division.",
+        "issuing_authority": "Revenue Dept (Anytime Anywhere e-Service portal)",
+        "alternative": "Old manual Patta book or Village Chitta copy from VAO."
+      },
+      {
+        "doc_type": "HEIR_CONSENT_NOC",
+        "name": "Consent Affidavit / Registered Release Deed from Co-Heirs",
+        "name_ta": "மற்ற வாரிசுகளின் சம்மத கடிதம் அல்லது உரிமை துறப்பு பத்திரம்",
+        "required": false,
+        "purpose": "Required if Patta is to be transferred to one specific son/daughter instead of joint ownership.",
+        "issuing_authority": "Notary Public / Sub-Registrar (if Registered Release)",
+        "alternative": "Joint application where all heirs are listed as co-pattadars."
+      },
+      {
+        "doc_type": "ENCUMBRANCE_CERTIFICATE",
+        "name": "Encumbrance Certificate (Last 15 to 30 Years)",
+        "name_ta": "வில்லங்கச் சான்றிதழ் (15 - 30 ஆண்டுகள்)",
+        "required": true,
+        "purpose": "Verifies that no mortgages, agreements, or attachments were created prior to demise.",
+        "issuing_authority": "Sub-Registrar Office (TNREGINET)",
+        "alternative": "Online signed EC download from tnreginet.gov.in."
+      }
+    ]
+  },
+  "LAND_PURCHASE_VERIFICATION": {
+    "title": "Before-You-Buy Due Diligence Checklist",
+    "description": "Essential documentation to inspect before signing any purchase contract or paying an advance.",
+    "documents": [
+      {
+        "doc_type": "TITLE_DEED",
+        "name": "Seller's Registered Title Deed (Sale/Settlement)",
+        "name_ta": "விற்பனையாளரின் கிரையப் பத்திரம்",
+        "required": true,
+        "purpose": "Confirms how and when the seller legally acquired ownership.",
+        "issuing_authority": "Sub-Registrar Office",
+        "alternative": "Certified Copy from Registration Department"
+      },
+      {
+        "doc_type": "PARENT_DEEDS",
+        "name": "Parent / Link Documents (30-Year Chain)",
+        "name_ta": "தாய் பத்திரங்கள் (30 ஆண்டு மூலப் பத்திரங்கள்)",
+        "required": true,
+        "purpose": "Traces uninterrupted ownership history and root of title.",
+        "issuing_authority": "Seller / Previous Owners / SRO Certified copies",
+        "alternative": "Sub-Registrar certified copies of registered link deeds."
+      },
+      {
+        "doc_type": "EXISTING_PATTA",
+        "name": "Latest Computer Patta & Chitta",
+        "name_ta": "தற்போதைய பட்டா மற்றும் சிட்டா",
+        "required": true,
+        "purpose": "Confirms revenue department recognizes seller as current possessor.",
+        "issuing_authority": "Revenue Department (Tamil Nilam)",
+        "alternative": "None - Computer patta is strictly required."
+      },
+      {
+        "doc_type": "FMB_SKETCH",
+        "name": "Field Measurement Book (FMB) Sketch",
+        "name_ta": "புல வரைபடம் (FMB)",
+        "required": true,
+        "purpose": "Validates boundary lengths, layout, and extent against physical site.",
+        "issuing_authority": "Taluk Surveyor / e-Services",
+        "alternative": "VAO certified village survey copy."
+      },
+      {
+        "doc_type": "ENCUMBRANCE_CERTIFICATE",
+        "name": "Encumbrance Certificate (30+ Years)",
+        "name_ta": "வில்லங்கச் சான்றிதழ் (30 ஆண்டுகள்)",
+        "required": true,
+        "purpose": "Confirms property is free from mortgages, court attachments, or disputes.",
+        "issuing_authority": "Registration Department (TNREGINET)",
+        "alternative": "Online signed EC."
+      },
+      {
+        "doc_type": "TAX_RECEIPT",
+        "name": "Latest Property Tax / Land Revenue (Kisht) Receipt",
+        "name_ta": "நில வரி / தீர்வை ரசீது",
+        "required": false,
+        "purpose": "Proof of active possession and up-to-date tax discharge.",
+        "issuing_authority": "Panchayat / Municipality / VAO",
+        "alternative": "Bank payment challan."
+      }
+    ]
+  },
+  "BOUNDARY_DISPUTE": {
+    "title": "Boundary Demarcation & Survey Checklist",
+    "description": "Required documents to resolve boundary confusion, area shortage, or neighbor disputes.",
+    "documents": [
+      {
+        "doc_type": "TITLE_DEED",
+        "name": "Registered Title Deed showing Four Boundaries (Chakkubandi)",
+        "name_ta": "நான்கு எல்லைகள் குறிப்பிடப்பட்ட கிரையப் பத்திரம்",
+        "required": true,
+        "purpose": "States legal boundaries: North, South, East, West.",
+        "issuing_authority": "Sub-Registrar",
+        "alternative": "Certified Copy"
+      },
+      {
+        "doc_type": "EXISTING_PATTA",
+        "name": "Current Patta Copy",
+        "name_ta": "பட்டா நகல்",
+        "required": true,
+        "purpose": "Shows official revenue extent and sub-division number.",
+        "issuing_authority": "Revenue Department",
+        "alternative": "Online extract"
+      },
+      {
+        "doc_type": "FMB_SKETCH",
+        "name": "Official FMB Sketch with Adjacent Survey Numbers",
+        "name_ta": "புல வரைபடம் (FMB)",
+        "required": true,
+        "purpose": "Enables government surveyor to physically place stones and identify encroachments.",
+        "issuing_authority": "Taluk Office",
+        "alternative": "e-Services FMB copy"
+      }
+    ]
+  },
+  "PATTA_TRANSFER": {
+    "title": "Patta Transfer Checklist",
+    "description": "Records relevant to a Patta name-change request.",
+    "documents": [
+      {
+        "doc_type": "EXISTING_PATTA",
+        "name": "Current Patta / Chitta",
+        "name_ta": "தற்போதைய பட்டா / சிட்டா",
+        "required": true,
+        "purpose": "Shows the current revenue record and survey identity.",
+        "issuing_authority": "Revenue Department",
+        "alternative": "Official digital extract where available"
+      },
+      {
+        "doc_type": "TITLE_DEED",
+        "name": "Relevant Registered Title Deed",
+        "name_ta": "தொடர்புடைய பதிவு செய்யப்பட்ட பத்திரம்",
+        "required": true,
+        "purpose": "Shows the recorded title transaction relevant to the request.",
+        "issuing_authority": "Sub-Registrar Office",
+        "alternative": "Certified copy where applicable"
+      },
+      {
+        "doc_type": "ENCUMBRANCE_CERTIFICATE",
+        "name": "Encumbrance Certificate (where relevant)",
+        "name_ta": "வில்லங்கச் சான்றிதழ்",
+        "required": false,
+        "purpose": "Provides registered encumbrance information.",
+        "issuing_authority": "Registration Department",
+        "alternative": "Official EC search"
+      }
+    ]
+  },
+  "DOCUMENT_EXPLANATION": {
+    "title": "Document Review Checklist",
+    "description": "Upload the document you want explained and any supporting record needed for comparison.",
+    "documents": [
+      {
+        "doc_type": "GENERAL_LAND_RECORD",
+        "name": "Land Document to Explain",
+        "name_ta": "விளக்க வேண்டிய நில ஆவணம்",
+        "required": true,
+        "purpose": "Primary document supplied by the citizen for AI-assisted explanation.",
+        "issuing_authority": "Citizen / issuing authority",
+        "alternative": "Certified copy where available"
+      }
+    ]
+  },
+  "LAND_RECORD_SEARCH": {
+    "title": "Land Record Search Checklist",
+    "description": "Information needed to locate and review land records.",
+    "documents": [
+      {
+        "doc_type": "EXISTING_PATTA",
+        "name": "Current Patta / Chitta Extract",
+        "name_ta": "தற்போதைய பட்டா / சிட்டா நகல்",
+        "required": false,
+        "purpose": "Helps identify the current revenue record.",
+        "issuing_authority": "Revenue Department",
+        "alternative": "Survey number and location details"
+      }
+    ]
+  }
+}

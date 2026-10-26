@@ -1,0 +1,34 @@
+[
+  {
+    "id": "user-pudukkottai-k-karuppaiah",
+    "name": "K. Karuppaiah",
+    "qualification": "B.Sc., B.L.",
+    "role": "Advocate",
+    "state": "Tamil Nadu",
+    "district": "Pudukkottai",
+    "office": "21, Law Chambers, Court Campus, Pudukkottai",
+    "phone": "98659 62097",
+    "email": "kkr_adv@yahoo.com",
+    "residential_address": "Plot No. 4, Palace Nagar, Near New Golden Nagar, Pudukkottai - Town",
+    "practice_note": "LandStack directory entry supplied by the user from a business-card image. This is not an official bar-directory verification.",
+    "verification_status": "USER_PROVIDED",
+    "source": "User-provided business card image",
+    "nearby_search_eligible": false
+  },
+  {
+    "id": "public-karnataka-rashmi-deshpande",
+    "name": "Rashmi Deshpande",
+    "qualification": "BAL, LLB",
+    "role": "Senior Partner | Head of Real Estate Practice",
+    "state": "Karnataka",
+    "district": "Bengaluru",
+    "office": "K Law, 4th Floor Prestige Takt No. 23, Kasturba Road Cross, Bengaluru - 560 001",
+    "phone": "+91 080 4175 7500",
+    "email": "rashmi.deshpande@klaw.in",
+    "website": "https://www.klaw.in/our-team/rashmi-deshpande/",
+    "practice_note": "Public professional profile from K Law. Real-estate, construction and dispute-resolution practice; not a recommendation or legal endorsement.",
+    "verification_status": "PUBLIC_PROFILE_VERIFIED",
+    "source": "K Law official team profile",
+    "nearby_search_eligible": false
+  }
+]

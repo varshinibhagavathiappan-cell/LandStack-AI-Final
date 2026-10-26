@@ -1,0 +1,54 @@
+[
+  {
+    "id": "faq-patta-vs-deed",
+    "question": "What is the difference between a Sale Deed and a Patta?",
+    "question_ta": "கிரையப் பத்திரத்திற்கும் பட்டாவிற்கும் என்ன வித்தியாசம்?",
+    "question_hi": "सेल डीड और पट्टा में क्या अंतर है?",
+    "answer": "A Sale Deed (registered with Sub-Registrar) is the title document proving you bought the property from the prior owner. A Patta (issued by Tahsildar / Revenue Department) is the official revenue record stating that the government recognizes you as the possessor and revenue payer. Having a Sale Deed without updating the Patta leaves your revenue title incomplete.",
+    "answer_ta": "கிரையப் பத்திரம் என்பது நிலத்தை வாங்கியதற்கான உரிமை ஆவணம் (சார்-பதிவாளர் அலுவலகம்). பட்டா என்பது அரசாங்க வருவாய்த் துறை ஆவணம். பத்திரத்தை மட்டும் வைத்துக்கொண்டு பட்டா மாற்றாமல் இருப்பது முழுமையான பாதுகாப்பை தராது.",
+    "jurisdiction": "Tamil Nadu",
+    "service": "Patta Transfer & Registration",
+    "source_title": "TN Revenue Citizen Charter",
+    "source_url": "https://eservices.tn.gov.in/",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "id": "faq-father-death-patta",
+    "question": "My father passed away. How do I transfer the land patta to my name?",
+    "question_ta": "எங்க அப்பா காலமானார். அவர் பெயரில் உள்ள பட்டாவை என் பெயருக்கு எப்படி மாற்றுவது?",
+    "question_hi": "मेरे पिता का निधन हो गया। मैं जमीन का पट्टा अपने नाम कैसे करवाऊं?",
+    "answer": "You need to: 1) Obtain the official Death Certificate; 2) Apply for and secure a Legal Heir Certificate (Varisu Saandrizh) from the Tahsildar via e-Sevai; 3) If there are other siblings or heirs, get a Registered Release Deed, Partition Deed, or NOC consent; 4) Submit an online Patta Transfer application on eservices.tn.gov.in with father's sale deed and legal heir certificate.",
+    "answer_ta": "1) தந்தையின் இறப்பு சான்றிதழ் பெறவும்; 2) வட்டாட்சியர் மூலம் வாரிசு சான்றிதழ் பெறவும்; 3) மற்ற வாரிசுகள் இருந்தால் அவர்களின் சம்மதம் அல்லது உரிமை துறப்பு பத்திரம் பெறவும்; 4) tn e-services இணையதளத்தில் பட்டா மாறுதல் விண்ணப்பிக்கவும்.",
+    "jurisdiction": "Tamil Nadu",
+    "service": "Patta Transfer (Mutation)",
+    "source_title": "e-Services Land Portal Guide",
+    "source_url": "https://eservices.tn.gov.in/eservicesnew/land/pattaCheck.html",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "id": "faq-area-mismatch-action",
+    "question": "What should I do if the land area in my Patta is less than my Sale Deed?",
+    "question_ta": "பத்திரத்தில் உள்ள பரப்பளவை விட பட்டாவில் குறைவாக இருந்தால் என்ன செய்வது?",
+    "question_hi": "यदि पट्टे में भूमि का क्षेत्रफल मेरे विक्रय पत्र से कम हो तो क्या करें?",
+    "answer": "Do not rush into registering a resale. Apply for a formal Field Measurement (FMB survey) through the Taluk office. A government surveyor will measure physical boundaries using total station and compare with the FMB sketch and adjacent land parcels. If an administrative error happened during UDR, the Tahsildar can issue an order for UDR rectification.",
+    "answer_ta": "உடனடியாக வட்டாட்சியர் அலுவலகத்தில் புல எல்லை அளவீடு (FMB Survey) கோரி விண்ணப்பிக்கவும். அரசு சர்வேயர் வந்து நிலத்தை அளந்து, எல்லையை சரிசெய்வார்.",
+    "jurisdiction": "Tamil Nadu",
+    "service": "Survey & Boundary Demarcation",
+    "source_title": "TN Survey & Boundaries Guidance",
+    "source_url": "https://eservices.tn.gov.in/",
+    "verification_status": "VERIFIED"
+  },
+  {
+    "id": "faq-ec-check-years",
+    "question": "How many years of Encumbrance Certificate (EC) should I check before buying?",
+    "question_ta": "நிலம் வாங்குவதற்கு முன் எத்தனை ஆண்டுகளுக்கு வில்லங்கச் சான்றிதழ் (EC) பார்க்க வேண்டும்?",
+    "question_hi": "जमीन खरीदने से पहले कितने वर्षों का भार प्रमाण पत्र (ईसी) देखना चाहिए?",
+    "answer": "A minimum of 30 to 35 years is legally standard in India. This ensures you catch any old unredeemed mortgages, court attachments, minor partition shares, or family settlement disputes that might not have been recorded in recent 5-10 year windows.",
+    "answer_ta": "குறைந்தது 30 முதல் 35 ஆண்டுகளுக்கான வில்லங்கச் சான்றிதழைப் (EC) பார்க்க வேண்டும். இது பழைய அடமானங்கள் அல்லது நீதிமன்ற வழக்குகளைக் கண்டறிய உதவும்.",
+    "jurisdiction": "Pan-India / Tamil Nadu",
+    "service": "Encumbrance Search",
+    "source_title": "Registration Department Portal",
+    "source_url": "https://tnreginet.gov.in/portal/",
+    "verification_status": "VERIFIED"
+  }
+]

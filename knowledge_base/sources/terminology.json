@@ -1,0 +1,90 @@
+[
+  {
+    "term": "Patta",
+    "term_ta": "பட்டா",
+    "term_hi": "पट्टा",
+    "category": "Ownership & Revenue Record",
+    "summary": "Official revenue record issued by the Government showing who is in registered possession of the land and liable to pay land revenue.",
+    "summary_ta": "அரசால் வழங்கப்படும் வருவாய்த்துறை ஆவணம். இந்த நிலம் யாருடைய பயன்பாட்டில் உள்ளது, வரி செலுத்துபவர் யார் என்பதை உறுதி செய்கிறது.",
+    "summary_hi": "सरकार द्वारा जारी किया गया राजस्व दस्तावेज जो यह साबित करता है कि जमीन किसके कब्जे में है और कौन भू-राजस्व देय है।",
+    "key_details": "Contains Survey Number, Sub-division Number, Village, Taluk, District, Extent (in Hectare-Are or Acres-Cents), and Owner Name.",
+    "authority": "Tahsildar / Revenue Department"
+  },
+  {
+    "term": "Chitta",
+    "term_ta": "சிட்டா",
+    "term_hi": "चिट्ठा",
+    "category": "Revenue Account Record",
+    "summary": "A village revenue register maintained by the VAO showing details of total land owned by an individual pattadar in that village, whether wet (Nanja) or dry (Punja).",
+    "summary_ta": "கிராம நிர்வாக அலுவலரால் பராமரிக்கப்படும் பதிவேடு. ஒரு குறிப்பிட்ட பட்டாதாரருக்கு கிராமத்தில் உள்ள மொத்த நிலங்களின் விவரத்தை குறிக்கும்.",
+    "summary_hi": "गांव के लेखाकार द्वारा रखा गया रजिस्टर जो किसी व्यक्ति के स्वामित्व वाली कुल भूमि का विवरण दिखाता है।",
+    "key_details": "In modern Tamil Nadu, Patta and Chitta are combined into a single unified extract downloaded from Tamil Nilam portal.",
+    "authority": "Village Administrative Officer (VAO)"
+  },
+  {
+    "term": "FMB (Field Measurement Book)",
+    "term_ta": "புல வரைபடம் (FMB)",
+    "term_hi": "फील्ड मापन पुस्तक (एफएमबी)",
+    "category": "Survey & Boundary Map",
+    "summary": "Detailed map of the survey field showing exact boundary dimensions, sub-divisions, ladder offsets, and bordering survey numbers.",
+    "summary_ta": "நிலத்தின் துல்லியமான எல்லை அளவுகள், உட்பிரிவுகள் மற்றும் சுற்றியுள்ள சர்வே எண்களைக் காட்டும் வரைபட ஆவணம்.",
+    "summary_hi": "सर्वेक्षण संख्या का मानचित्र जिसमें सटीक सीमा माप और विभाजन विवरण दर्ज होते हैं।",
+    "key_details": "Crucial to verify physical ground measurements against revenue records to detect encroached or missing area.",
+    "authority": "Survey and Land Records Department"
+  },
+  {
+    "term": "Encumbrance Certificate (EC)",
+    "term_ta": "வில்லங்கச் சான்றிதழ் (EC)",
+    "term_hi": "भार प्रमाण पत्र (ईसी)",
+    "category": "Title & Transaction History",
+    "summary": "Official record from the Sub-Registrar Office listing all registered transactions, mortgages, leases, or court attachments on the property over a requested time period.",
+    "summary_ta": "சார்-பதிவாளர் அலுவலகத்தால் வழங்கப்படும் ஆவணம். குறிப்பிட்ட காலத்தில் அந்த சொத்தில் பதிவு செய்யப்பட்ட விற்பனை, அடமானம் அல்லது கடன் விவரங்களைக் காட்டும்.",
+    "summary_hi": "उप-पंजीयक कार्यालय द्वारा जारी प्रमाण पत्र जो संपत्ति पर पंजीकृत बंधक, बिक्री या कानूनी दावों का विवरण देता है।",
+    "key_details": "A 'Nil Encumbrance' indicates no registered transactions during the search window, but does not substitute for checking unrecorded heir claims.",
+    "authority": "Sub-Registrar Office (Registration Dept)"
+  },
+  {
+    "term": "Legal Heir Certificate",
+    "term_ta": "வாரிசு சான்றிதழ் (வாரிசுரிமை)",
+    "term_hi": "कानूनी उत्तराधिकारी प्रमाण पत्र",
+    "category": "Inheritance Document",
+    "summary": "Statutory certificate establishing the surviving legal heirs of a deceased title holder, essential for mutation and property transfer.",
+    "summary_ta": "மறைந்த நில உரிமையாளரின் உண்மையான சட்டப்பூர்வ வாரிசுகளை உறுதிப்படுத்தும் அரசு சான்றிதழ்.",
+    "summary_hi": "मृतक संपत्ति धारक के सभी कानूनी उत्तराधिकारियों को प्रमाणित करने वाला आधिकारिक दस्तावेज।",
+    "key_details": "Issued by the Tahsildar after inquiry by the Village Administrative Officer and Revenue Inspector.",
+    "authority": "Tahsildar / Revenue Department"
+  },
+  {
+    "term": "TSLR (Town Survey Land Register)",
+    "term_ta": "நகர நில அளவை ஆவணம் (TSLR)",
+    "term_hi": "टाउन सर्वे लैंड रजिस्टर",
+    "category": "Urban Land Record",
+    "summary": "The urban equivalent of Patta/Chitta in municipalities and municipal corporations, indexing property by Ward, Block, and Town Survey Number (T.S. No).",
+    "summary_ta": "நகராட்சி மற்றும் மாநகராட்சி பகுதிகளில் பட்டாவுக்கு இணையான ஆவணம். வார்டு, பிளாக் மற்றும் டவுன் சர்வே எண்களைக் கொண்டிருக்கும்.",
+    "summary_hi": "शहरी नगर पालिकाओं में पट्टे के समकक्ष राजस्व रजिस्टर।",
+    "key_details": "Urban land transfer requires verification of TSLR extract rather than rural Patta.",
+    "authority": "Urban Land Survey / Corporation"
+  },
+  {
+    "term": "Sale Deed",
+    "term_ta": "கிரையப் பத்திரம்",
+    "term_hi": "विक्रय पत्र / बैनामा",
+    "category": "Conveyance Title Document",
+    "summary": "Legally registered deed transferring absolute ownership from the seller to the buyer upon receipt of consideration.",
+    "summary_ta": "நில உரிமையை ஒருவரிடமிருந்து மற்றொருவருக்கு மாற்றும் முறைப்படி பதிவு செய்யப்பட்ட சட்டப்பூர்வ பத்திரம்.",
+    "summary_hi": "संपत्ति का पूर्ण स्वामित्व विक्रेता से क्रेता को हस्तांतरित करने वाला पंजीकृत विलेख।",
+    "key_details": "Requires registration under Section 17 of the Registration Act, 1908.",
+    "authority": "Sub-Registrar Office"
+  },
+  {
+    "term": "VAO (Village Administrative Officer)",
+    "term_ta": "கிராம நிர்வாக அலுவலர் (VAO)",
+    "term_hi": "ग्राम प्रशासनिक अधिकारी (वीएओ)",
+    "category": "Revenue Administrative Official",
+    "summary": "The primary village-level government officer responsible for maintaining land records, investigating local heir claims, inspecting boundaries, and certifying possession.",
+    "summary_ta": "கிராம அளவில் நில ஆவணங்களை பராமரிக்கும், வாரிசு விசாரணை நடத்தும் மற்றும் பட்டா மாறுதல் விண்ணப்பங்களை சரிபார்க்கும் முதல்நிலை அரசு அலுவலர்.",
+    "summary_hi": "गांव स्तर पर भूमि अभिलेख बनाए रखने और सत्यापन करने वाला प्राथमिक सरकारी अधिकारी।",
+    "key_details": "First point of physical inspection and verification for inheritance mutation and crop records.",
+    "authority": "Revenue Administration"
+  }
+]

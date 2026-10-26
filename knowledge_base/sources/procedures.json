@@ -1,0 +1,176 @@
+[
+  {
+    "id": "proc-tn-inheritance-mutation",
+    "title": "Inherited Land Mutation & Patta Transfer (Paternal/Maternal Deceased)",
+    "title_ta": "தந்தை/தாய் மறைவுக்குப் பின் வாரிசு அடிப்படையில் பட்டா மாறுதல் முறை",
+    "state": "Tamil Nadu",
+    "category": "Mutation / Inheritance",
+    "applicable_intent": "INHERITED_LAND_TRANSFER",
+    "jurisdiction": "Taluk / VAO / Revenue Dept",
+    "governing_rules": "Tamil Nadu Patta Pass Book Act, 1983 & Rules 1987",
+    "estimated_timeline": "15 to 30 working days",
+    "statutory_fee": "Rs. 60 (Online processing fee) + Sub-division fee if partitioned",
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Obtain Official Death & Legal Heir Certificates",
+        "description": "Ensure the original death certificate of the deceased title holder and a valid Legal Heir Certificate (Varisu Saandrizh) issued by the competent Tahsildar are in hand.",
+        "office": "e-Sevai Center / Taluk Office"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Partition Deed / Registered Release Deed (if multiple heirs)",
+        "description": "If there are multiple legal heirs (e.g. siblings, surviving spouse), obtain either a Registered Partition Deed, a Registered Release/Relinquishment Deed, or signed No-Objection Affidavits consenting to the transfer.",
+        "office": "Sub-Registrar Office (SRO)"
+      },
+      {
+        "step_number": 3,
+        "step_name": "Verify Existing Computer Patta & Land Records",
+        "description": "Download the latest Patta and Chitta extract from eservices.tn.gov.in using Survey Number and Subdivision number to confirm the deceased person's recorded extent.",
+        "office": "Online (eservices.tn.gov.in)"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Submit Online Patta Transfer Application",
+        "description": "Submit form on TN e-Services with uploaded PDF copies of Legal Heir Certificate, Death Certificate, Parent Deed, and Property Tax receipt. Obtain Application Reference (CAN/Ack No).",
+        "office": "Online / e-Sevai"
+      },
+      {
+        "step_number": 5,
+        "step_name": "Village Administrative Officer (VAO) & Revenue Inspector (RI) Field Inquiry",
+        "description": "VAO inspects field boundaries, checks peaceful physical possession, validates genealogical facts, and forwards report to Zonal Deputy Tahsildar.",
+        "office": "Village Administrative Office"
+      },
+      {
+        "step_number": 6,
+        "step_name": "Order by Zonal Deputy Tahsildar & Digitally Signed Patta Issuance",
+        "description": "Deputy Tahsildar approves mutation order. The new Patta is updated in Tamil Nilam database and available for instant download.",
+        "office": "Taluk Office / Tamil Nilam portal"
+      }
+    ],
+    "prerequisites": [
+      "Deceased owner's Death Certificate",
+      "Legal Heir Certificate (Varisu Saandrizh)",
+      "Registered Sale Deed / Settlement Deed of the deceased",
+      "Prior Patta / Chitta number",
+      "Consent / NOC from other surviving legal heirs"
+    ],
+    "caution_notes": [
+      "If land area in existing Patta doesn't match the Registered Deed, a field measurement (FMB re-survey) will be triggered before mutation approval.",
+      "Never pay unauthorized intermediaries. Official fees are paid only via the government payment gateway."
+    ],
+    "official_url": "https://eservices.tn.gov.in/eservicesnew/land/pattaCheck.html",
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-15"
+  },
+  {
+    "id": "proc-tn-purchase-due-diligence",
+    "title": "Before-You-Buy Land Due Diligence & Title Verification Workflow",
+    "title_ta": "நிலம் வாங்குவதற்கு முன் மேற்கொள்ள வேண்டிய சரிபார்ப்பு நடைமுறை",
+    "state": "Tamil Nadu",
+    "category": "Purchase Due Diligence",
+    "applicable_intent": "LAND_PURCHASE_VERIFICATION",
+    "jurisdiction": "Registration Dept & Revenue Dept",
+    "governing_rules": "Registration Act 1908 & TN Patta Passbook Act",
+    "estimated_timeline": "7 to 14 days prior to agreement",
+    "statutory_fee": "Rs. 100 - 300 for 30-year EC search",
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "30-Year Encumbrance Search (EC)",
+        "description": "Search TNREGINET for at least 30 years to check for mortgages, bank loans, prior court attachments, or undisclosed agreements of sale.",
+        "office": "Online (tnreginet.gov.in) / SRO"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Parent Deed Chain Verification",
+        "description": "Verify unbroken link documents dating back at least 30 years to prove valid root of title and how the seller acquired the property.",
+        "office": "Legal Advisor / Sub-Registrar Office"
+      },
+      {
+        "step_number": 3,
+        "step_name": "Revenue Records Consistency (Patta, Chitta, FMB)",
+        "description": "Match the seller's name in the registered sale deed with the current name in the Tamil Nilam computer Patta. Verify survey number and extent in FMB sketch.",
+        "office": "Online (eservices.tn.gov.in) / VAO"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Physical Demarcation & Boundary Verification",
+        "description": "Conduct physical inspection with licensed surveyor to verify four boundaries (North, South, East, West) and reconcile physical ground measurement with document extent.",
+        "office": "On-site / Taluk Surveyor"
+      },
+      {
+        "step_number": 5,
+        "step_name": "Classification & Zoning Check",
+        "description": "Confirm land is Ryotwari Punja/Nanja and not government Poramboke, Panchami, Temple (HR&CE), or Wakf land.",
+        "office": "Taluk Office / DTCP / CMDA"
+      }
+    ],
+    "prerequisites": [
+      "Copy of Seller's Title Deed",
+      "Parent / Link Deeds for 30 years",
+      "Current Computer Patta copy",
+      "FMB sketch copy",
+      "Tax receipts (Property tax, Kisht)",
+      "EC for 30 years"
+    ],
+    "caution_notes": [
+      "Any discrepancy between seller stated area and registered document area must be resolved before executing a Sale Agreement.",
+      "An Encumbrance Certificate only records registered acts; it does not reflect unregistered inheritance claims or pending unindexed civil suits."
+    ],
+    "official_url": "https://tnreginet.gov.in/portal/",
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-15"
+  },
+  {
+    "id": "proc-tn-area-inconsistency-resolution",
+    "title": "Area Mismatch Reconciliation & Revenue Demarcation Procedure",
+    "title_ta": "நிலப் பரப்பளவு வேறுபாடு நிவர்த்தி மற்றும் எல்லை அளவீட்டு முறை",
+    "state": "Tamil Nadu",
+    "category": "Boundary & Area Dispute",
+    "applicable_intent": "AREA_DISCREPANCY_RESOLUTION",
+    "jurisdiction": "Taluk Office / Survey Section",
+    "governing_rules": "Tamil Nadu Survey and Boundaries Act, 1923",
+    "estimated_timeline": "30 to 45 working days",
+    "statutory_fee": "Demarcation fee Rs. 400 - 800 per survey mark",
+    "steps": [
+      {
+        "step_number": 1,
+        "step_name": "Compare Document vs Revenue Records",
+        "description": "Audit the exact difference in square feet/cents between Registered Deed, Current Patta, and FMB sketch.",
+        "office": "LandStack Evidence Engine / Legal Counsel"
+      },
+      {
+        "step_number": 2,
+        "step_name": "Apply for Official Taluk Surveyor Field Inspection",
+        "description": "Submit demarcation petition to Tahsildar with copies of deed and fee challan to measure land using electronic total station (ETS).",
+        "office": "Taluk Office / e-Sevai"
+      },
+      {
+        "step_number": 3,
+        "step_name": "Notice to Adjacent Landowners",
+        "description": "Tahsildar issues statutory notice to all adjacent boundary owners informing them of the inspection date.",
+        "office": "VAO Office"
+      },
+      {
+        "step_number": 4,
+        "step_name": "Surveyor Field Measurement & FMB Rectification",
+        "description": "Surveyor measures land against village revenue survey map. If sub-division error occurred in UDR scheme, surveyor submits report for UDR rectification.",
+        "office": "Field Site / Taluk Office"
+      }
+    ],
+    "prerequisites": [
+      "Original Title Deed or certified copy",
+      "Current Patta extract",
+      "Village FMB copy",
+      "Adjoining survey numbers list"
+    ],
+    "caution_notes": [
+      "Do not register a new sale deed with unverified area differences as it creates a permanent cloud on title.",
+      "System labels this as 'POTENTIAL INCONSISTENCY' requiring field verification."
+    ],
+    "official_url": "https://eservices.tn.gov.in/",
+    "verification_status": "VERIFIED",
+    "last_verified_date": "2026-03-15"
+  }
+]
